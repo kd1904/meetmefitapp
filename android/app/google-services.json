@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240807916015",
+    "project_id": "meetmeapp-c831b",
+    "storage_bucket": "meetmeapp-c831b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240807916015:android:1e851174abb88fe266861a",
+        "android_client_info": {
+          "package_name": "com.example.meetmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240807916015-g3b28kb5f2i47a7pj299tiafvq7djr13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRD95l0Pv6krXIZXp9gSIx8ZzZbriFMIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240807916015-g3b28kb5f2i47a7pj299tiafvq7djr13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
